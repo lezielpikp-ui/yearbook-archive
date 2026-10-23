@@ -1,0 +1,6 @@
+{
+  "name": "Yearbook Archive",
+  "description": "Public school yearbook archive powered by Google Drive. Browse, search, and view school yearbooks with automatic sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
